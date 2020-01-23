@@ -1,0 +1,33 @@
+{
+  "name": "components-react-native",
+  "version": "0.0.1",
+  "description": "Library that helps in the visual construction of your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaosantosdev/components-react-native.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "reactnative",
+    "native",
+    "components",
+    "react-native-components",
+    "ui",
+    "rn",
+    "react-native",
+    "mobile",
+    "ux",
+    "components-react-native"
+  ],
+  "author": "@jovemdeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaosantosdev/components-react-native/issues"
+  },
+  "homepage": "https://github.com/joaosantosdev/components-react-native#readme"
+}
